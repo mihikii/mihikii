@@ -7,7 +7,7 @@
 </p>
 
 
-* 🌍  I'm from Canada 🇨🇦
+* 🌍  I'm from Fiji 🇫🇯
 * 🧠  I'm interested in: Java, Kotlin, C#, Linux, malware, reverse engineering, cryptocurrency, & cats 🐈
 * ✉️  You can contact me at mikaela@cock.li with an [optional PGP](https://github.com/mikaela9/mikaela9/blob/main/PGP) key inside this repository for additional security
                                         
