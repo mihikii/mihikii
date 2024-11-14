@@ -2,8 +2,6 @@
 
   <h1 align="center">Hi there, my name is Mika 🐈</h1>
 </p>
-<p align="center">
-  <img src=" />
 </p>
 
 
