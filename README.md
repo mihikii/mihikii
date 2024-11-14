@@ -1,9 +1,9 @@
 
 
-  <h1 align="center">Hi there, my name is Mika 😎</h1>
+  <h1 align="center">Hi there, my name is Mika 🐈</h1>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4fb855e8-bb1b-42c7-9106-c4342c186032" />
+  <img src=" />
 </p>
 
 
